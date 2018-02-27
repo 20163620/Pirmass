@@ -1,7 +1,7 @@
 -- File: xor.vhd
 library ieee;
 use ieee.std_logic_1164.all;
---Deivydas Lipskis
+--Deivydas Lipskis EIF-16/1
 -- the entity
 entity xor is
 port (
